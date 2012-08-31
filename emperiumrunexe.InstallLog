@@ -1,0 +1,125 @@
+﻿Installing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Uninstalling assembly 'D:\EmperiumRunExe\bin\Debug\EmperiumRunExe.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\EmperiumRunExe\bin\Debug\EmperiumRunExe.exe
+   logfile = D:\EmperiumRunExe\bin\Debug\EmperiumRunExe.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'd:\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = d:\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = d:\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Emperium Run File...
+Creating EventLog source Emperium Run File in log Application...
+Rolling back assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Emperium Run File.
+Installing assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Installing service Emperium Run File...
+Creating EventLog source Emperium Run File in log Application...
+Rolling back assembly 'c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.exe
+   logfile = c:\raj files\emperiumrunexe\bin\debug\emperiumrunexe.InstallLog
+Restoring event log to previous state for source Emperium Run File.
+Installing assembly 'c:\emperiumbatchfile\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\emperiumbatchfile\emperiumrunexe.exe
+   logfile = c:\emperiumbatchfile\emperiumrunexe.InstallLog
+Installing service Emperium Run File...
+Service Emperium Run File has been successfully installed.
+Creating EventLog source Emperium Run File in log Application...
+Committing assembly 'c:\emperiumbatchfile\emperiumrunexe.exe'.
+Affected parameters are:
+   assemblypath = c:\emperiumbatchfile\emperiumrunexe.exe
+   logfile = c:\emperiumbatchfile\emperiumrunexe.InstallLog
